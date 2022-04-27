@@ -1,4 +1,1 @@
-untuk versi awal ada di folder spk-series
 
-======= BUG / ERROR ===================
-1. Di tabel pelamar yang ngelamar namanya hinata semua.
